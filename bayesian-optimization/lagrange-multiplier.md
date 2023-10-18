@@ -11,7 +11,3 @@ We can vary the contour lines of $f$ until is it tangent to $g$. Since the gradi
 $$\nabla f(x^{\ast},y^{\ast})=\lambda \nabla g(x^{\ast},y^{\ast})$$
 
 where $\lambda$ is the Lagrange multiplier.
-
-### Example
-
-Suppose $f(x,y)=x^2y$ on the set $x^2+y^2=1$.
