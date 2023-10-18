@@ -14,4 +14,4 @@ for extrema $(x^{\ast},y^{\ast})$ where $\lambda$ is the Lagrange multiplier.
 
 ## Motivation
 
-Suppose the contours of $f$ given by $f(x,y)=d$ for various $d$, and the contours of $g$ similarly given by $g(x,y)=c$. We will walk along $g=c$, while observing the $\nabla f$ as we go. If $\nabla f$ has any component along the constraint, $f$ must have a higher or lower point along the constraint. Therefore, if we continue to walk along the constraint until reaching a point where $\nabla f$ is normal to the constraint, $f$ is instantaneoulsy not changing at that point and an extrema has been found. 
+Suppose the contours of $f$ given by $f(x,y)=d$ for various $d$, and the contours of $g$ similarly given by $g(x,y)=c$. We will walk along $g=c$ while observing $\nabla f$ as we go. If $\nabla f$ has any component along the constraint, $f$ must have a higher or lower point along the constraint. Therefore, if we continue to walk along the constraint until reaching a point where $\nabla f$ is normal to the constraint, $f$ is instantaneoulsy not changing at that point and an extrema has been found. 
